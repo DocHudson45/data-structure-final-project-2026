@@ -1,5 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28507627/README.md)
-# data-structure-final-project-2026
 # Pathfinding Visualizer — Data Structures Final Project 2026
 
 Final project for the Data Structures course (IUP). You write a C++ pathfinding
